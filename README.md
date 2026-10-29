@@ -8,7 +8,6 @@ I build practical software and explore research problems in **content-centric ne
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/masum-mir)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-masum-mir/)
-[![Profile Views](https://komarev.com/ghpvc/?username=masum-mir&label=Profile%20views&color=64748b&style=flat-square)](https://github.com/masum-mir)
 
 </div>
 
@@ -40,12 +39,23 @@ I build practical software and explore research problems in **content-centric ne
 
 ### GitHub activity
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=masum-mir&show_icons=true&hide_border=true&theme=transparent" alt="Masum's GitHub statistics" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masum-mir&layout=compact&hide_border=true&theme=transparent" alt="Most used languages across public repositories" height="160" />
+<h3 align="center">GitHub Statistics</h3>
 
-</div>
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=masum-mir&show_icons=true&theme=transparent&hide_border=true"
+    height="165"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=masum-mir&layout=compact&theme=transparent&hide_border=true"
+    height="165"
+    alt="Most Used Languages"
+  />
+</p>
+
+
 
 > *Interested in reproducible experiments, well-engineered applications, and research that translates into usable tools.*
 
